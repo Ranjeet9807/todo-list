@@ -1,0 +1,25 @@
+# Dépendances Node.js
+node_modules/
+
+# Variables d'environnement
+.env
+
+# Fichiers de logs
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Éditeurs de code
+.vscode/
+.idea/
+
+# Base de données locale
+data/todos.db
+data/todos.db-shm
+data/todos.db-wal
+
+# Fichiers compilés TypeScript
+dist/
+public/
