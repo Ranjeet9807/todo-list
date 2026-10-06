@@ -76,7 +76,7 @@ My Todo List application has evolved through multiple iterations to improve stru
 Clone the project:
 
 ```bash
-git clone https://github.com/AlexandreCoussediere/todo-list.git
+git clone https://github.com/Ranjeet9807/todo-list.git
 ```
 
 Install dependencies:
